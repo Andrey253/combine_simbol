@@ -1,0 +1,23 @@
+// начало
+
+flutter build web; cd build/web;git add .;git commit -m "standart commit"; git push -u origin main --force
+
+
+echo "# trans" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Andrey253/trans.git
+git push -u origin main
+
+
+git remote add origin https://github.com/Andrey253/trans.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+cd C:\Users\andrey\combine_simbol; flutter build web ; cd build/web;git add .;git commit -m "standart commit"; git push -u origin main --force
